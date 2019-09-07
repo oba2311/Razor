@@ -13,4 +13,27 @@ Public on-boarding materials:
 2. With the corresponding [code snippets](https://github.com/mnielsen/neural-networks-and-deep-learning)
 
 ## Tools:
-Oren...?
+
+## Linux & Ubunto:
+* [CLI](https://tutorials.ubuntu.com/tutorial/command-line-for-beginners#0)
+* [Ubuntu](https://www.udemy.com/course/learn-ubuntu-in-7-days/learn/lecture/11474450#overview)
+
+- Fix screen size for Ubuntu:
+1. Unmount current disk.
+2. run `sudo apt install linux-headers-$(uname -r) build-essential dkms`
+3. Then go to `devices --> insert guest additions CD...`
+4. Shut down the VM. Go to the VM `Settings » Display » Screen`.
+Enable 3D acceleration.
+Increase the VRAM to the max 256 MB.
+
+### Python:
+* Numpy
+* Pandas:
+
+### Tensorflow:
+
+
+### Timeseries forecasting:
+
+
+### Sensor data:
