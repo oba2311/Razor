@@ -14,7 +14,7 @@ Public on-boarding materials:
 
 ## Tools:
 
-## Linux & Ubunto:
+### Linux & Ubunto:
 * [CLI](https://tutorials.ubuntu.com/tutorial/command-line-for-beginners#0)
 * [Ubuntu](https://www.udemy.com/course/learn-ubuntu-in-7-days/learn/lecture/11474450#overview)
 
