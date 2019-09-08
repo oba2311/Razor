@@ -2,7 +2,7 @@
 Public on-boarding materials:
 
 ## DL refresher - into materials:
-1. [MIT Overview](https://www.youtube.com/watch?v=O5xeyoRL95U)
+1. [MIT Overview](https://www.youtube.com/watch?v=O5xeyoRL95U)  ✔️
 2. [Network Types and encoders](https://medium.com/tensorflow/mit-deep-learning-basics-introduction-and-overview-with-tensorflow-355bcd26baf0)
 
 ## Maths - High Level:
@@ -16,7 +16,7 @@ Public on-boarding materials:
 
 ### Linux & Ubunto:
 * [CLI](https://tutorials.ubuntu.com/tutorial/command-line-for-beginners#0)
-* [Ubuntu](https://www.udemy.com/course/learn-ubuntu-in-7-days/learn/lecture/11474450#overview)
+* [Ubuntu](https://www.udemy.com/course/learn-ubuntu-in-7-days/learn/lecture/11474450#overview) ✔️
 
 - Fix screen size for Ubuntu:
 1. Unmount current disk.
